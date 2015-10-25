@@ -1,0 +1,18 @@
+.heading{
+	background-color:#C0C2C2;
+	color:#545F71;
+	font-family: "Times New Roman"
+
+}
+head{
+	background-color: #C0C2C28;
+}
+body{
+	background-color: #C0C2C2;
+}
+.container {
+  display: flex; /* or inline-flex */
+}
+.address{
+	font-size: 40
+}
